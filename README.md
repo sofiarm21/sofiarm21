@@ -7,8 +7,6 @@
   <em>Doing #OpenSource stuff</em>
   <br/>
   <em>Software Engineer student at UCAB</em>
-  <br/>
-  <em>Local space guitar and cats fangirl</em>
 </p>
 
 <hr/>
