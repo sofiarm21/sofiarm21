@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Sofía 👋
+
+<p>
+  <strong>Sher/Her</strong>
+  <br/>
+  <br/>
+  <em>Doing #OpenSource stuff</em>
+  <br/>
+  <em>Software Engineer student at UCAB</em>
+  <br/>
+  <em>Local space guitar and cats fangirl</em>
+</p>
+
+<hr/>
 
 <!--
 **sofiarm21/sofiarm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
