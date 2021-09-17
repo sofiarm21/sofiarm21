@@ -1,15 +1,31 @@
-### Hi there! I'm Sofía 👋
-
-<p>
-  <strong>Sher/Her</strong>
-  <br/>
-  <br/>
-  <em>Doing #OpenSource stuff</em>
-  <br/>
-  <em>Software Engineer student at UCAB</em>
-</p>
+<div align='center'>
+  <h2>Hi there! I'm Sofía 👋</h2>
+  
+  <p>
+    <strong>Sher/Her</strong>
+    <br/>
+    <br/>
+    <em>Doing #OpenSource stuff</em>
+    <br/>
+    <em>Software Engineer student at UCAB</em>
+    <br/>
+    <em>Pretending to know what I'm coding most of the time</em>
+  </p>
+  <img alt='dumb cat' height='200px' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" />
+</div>
 
 <hr/>
+
+
+
+<div>
+   <img align='left' height='200px' alt="Sofia's github stats" src="https://github-readme-stats.vercel.app/api?username=sofiarm21&show_icons=true&theme=prussian"/>
+   <img align='center' height='200px' alt="Sofia's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiarm21&layout=compact&theme=prussian"/>
+</div>
+
+
+
+
 
 <!--
 **sofiarm21/sofiarm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
