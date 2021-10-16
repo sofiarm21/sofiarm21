@@ -19,7 +19,7 @@
 
 
 <div>
-   <img align='left' height='200px' alt="Sofia's github stats" src="https://github-readme-stats.vercel.app/api?username=sofiarm21&show_icons=true&theme=prussian"/>
+   <img align='left' height='200px' alt="Sofia's github stats" src="https://github-readme-stats.vercel.app/api?username=sofiaromorales&show_icons=true&theme=prussian"/>
 <!--    <img align='center' height='200px' alt="Sofia's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaromorales&layout=compact&theme=prussian"/> -->
 </div>
 
@@ -28,7 +28,7 @@
 
 
 <!--
-**sofiarm21/sofiarm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sofiaromorales/sofiaromorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
