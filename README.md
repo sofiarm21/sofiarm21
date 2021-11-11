@@ -10,6 +10,8 @@
     <em>Software Engineer student at UCAB</em>
     <br/>
     <em>Pretending to know what I'm coding most of the time</em>
+    <br/>
+    <em><strong>Learning</strong></em>
   </p>
   <img alt='dumb cat' height='200px' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" />
 </div>
