@@ -2,9 +2,6 @@
   <h2>Hi there! I'm Sofía 👋</h2>
   
   <p>
-    <strong>Sher/Her</strong>
-    <br/>
-    <br/>
     <em>Doing #OpenSource stuff</em>
     <br/>
     <em>Software Engineer student at UCAB</em>
