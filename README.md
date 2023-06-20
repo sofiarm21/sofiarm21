@@ -4,7 +4,7 @@
   <p>
     <em>Doing #OpenSource stuff</em>
     <br/>
-    <em>Software Engineer student at UCAB</em>
+    <em>Software Engineer</em>
     <br/>
     <em><strong>Learning🐝</strong></em>
   </p>
