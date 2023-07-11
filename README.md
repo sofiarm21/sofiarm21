@@ -2,9 +2,6 @@
   <h2>Hi there! I'm Sofía 👋</h2>
   
   <p>
-    <em>Doing #OpenSource stuff</em>
-    <br/>
-    <em>Software Engineer</em>
   </p>
   <img alt='dumb cat' height='200px' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" />
 </div>
